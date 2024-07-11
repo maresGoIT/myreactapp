@@ -6,8 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>React App</h1>
         <p>
-          This is another new change. 2024 - 2025
+          This is another new change. 2024
         </p>
         <a
           className="App-link"
